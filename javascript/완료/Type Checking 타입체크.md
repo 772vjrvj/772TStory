@@ -90,6 +90,6 @@ function isFunction(target) {
 }
 
 // 자바스크립트 utility library 인 Lodash 에서도 타입체크를 할 수 있다.
-// ex) _.isArray, _.isSet, isDate, .... 
+// ex) _.isArray, _.isSet, isDate, ...
 ```
 

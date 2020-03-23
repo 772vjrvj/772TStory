@@ -8,7 +8,6 @@
     <li></li>
   </ul>
   <script>
-    console.log(undefined == null)
     const isArrayLike = function (collection) {
       // 배열 인덱스: 32bit 정수(2의 32제곱 - 1)
       // 유사 배열 인덱스: 자바스크립트로 표현할 수 있는 양의 정수(2의 53제곱 - 1)
@@ -41,3 +40,4 @@
 ```
 
 Lodash isArray를 사용해도 된다. _.isArray
+
